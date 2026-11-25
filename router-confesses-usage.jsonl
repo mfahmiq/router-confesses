@@ -1,0 +1,1 @@
+{"agent_id": "72fe93bd-d615-4eec-9a33-c8904097cd84", "created_at": 1795630004, "input_tokens": null, "output_tokens": null, "message_id": null, "model": "muse-spark-1.3", "note": "Muse app session log carries no token usage; parent to attach usage rows from the Muse database before bundling (see RULES bundle --muse-usage)."}
